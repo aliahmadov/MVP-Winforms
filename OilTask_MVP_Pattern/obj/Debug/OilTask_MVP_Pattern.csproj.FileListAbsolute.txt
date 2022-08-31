@@ -1,0 +1,13 @@
+C:\Users\eliah\source\repos\OilTask_MVP_Pattern\OilTask_MVP_Pattern\bin\Debug\OilTask_MVP_Pattern.exe.config
+C:\Users\eliah\source\repos\OilTask_MVP_Pattern\OilTask_MVP_Pattern\bin\Debug\OilTask_MVP_Pattern.exe
+C:\Users\eliah\source\repos\OilTask_MVP_Pattern\OilTask_MVP_Pattern\bin\Debug\OilTask_MVP_Pattern.pdb
+C:\Users\eliah\source\repos\OilTask_MVP_Pattern\OilTask_MVP_Pattern\bin\Debug\Guna.UI2.dll
+C:\Users\eliah\source\repos\OilTask_MVP_Pattern\OilTask_MVP_Pattern\obj\Debug\OilTask_MVP_Pattern.csproj.AssemblyReference.cache
+C:\Users\eliah\source\repos\OilTask_MVP_Pattern\OilTask_MVP_Pattern\obj\Debug\OilTask_MVP_Pattern.csproj.SuggestedBindingRedirects.cache
+C:\Users\eliah\source\repos\OilTask_MVP_Pattern\OilTask_MVP_Pattern\obj\Debug\OilTask_MVP_Pattern.Properties.Resources.resources
+C:\Users\eliah\source\repos\OilTask_MVP_Pattern\OilTask_MVP_Pattern\obj\Debug\OilTask_MVP_Pattern.csproj.GenerateResource.cache
+C:\Users\eliah\source\repos\OilTask_MVP_Pattern\OilTask_MVP_Pattern\obj\Debug\OilTask_MVP_Pattern.csproj.CoreCompileInputs.cache
+C:\Users\eliah\source\repos\OilTask_MVP_Pattern\OilTask_MVP_Pattern\obj\Debug\OilTask_MVP_Pattern.csproj.CopyComplete
+C:\Users\eliah\source\repos\OilTask_MVP_Pattern\OilTask_MVP_Pattern\obj\Debug\OilTask_MVP_Pattern.exe
+C:\Users\eliah\source\repos\OilTask_MVP_Pattern\OilTask_MVP_Pattern\obj\Debug\OilTask_MVP_Pattern.pdb
+C:\Users\eliah\source\repos\OilTask_MVP_Pattern\OilTask_MVP_Pattern\obj\Debug\OilTask_MVP_Pattern.MainView.resources
